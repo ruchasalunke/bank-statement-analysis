@@ -1,14 +1,18 @@
-from PIL import Image
-import pytesseract
-import pdf2image
-pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/Tesseract-OCR/tesseract.exe'
-pdf_file = 'Account Statement.pdf'
-# Convert PDF to list of images (one image per page)
-images = pdf2image.convert_from_path(pdf_file)
-# Initialize empty text variable to store extracted text
-extracted_text = ''
-# Loop through each page/image and extract text
-for img in images:
-    text = pytesseract.image_to_string(img, lang='eng')  # You can specify language if needed
-    extracted_text += text + '\n'  # Append extracted text with a newline between pages
-print(extracted_text)
+import PyPDF2
+pdf_one = PyPDF2.PdfReader('hdfc-bank.pdf')
+pdf_two = PyPDF2.PdfReader('yes-bank.pdf')
+def extract_text():
+    str1 = ""
+    str2 = ""
+    length_one = len(pdf_one.pages)
+    length_two = len(pdf_two.pages)
+    for i in range(1,length_one):
+        str1 += pdf_one.pages[i].extract_text()
+    for i in range(1,length_two):
+        str2 += pdf_two.pages[i].extract_text()
+    #extracting text in a file called output.txt
+    with open("output-1.txt","w",encoding='utf-8') as f1:
+        f1.write(str1)
+    with open("output-2.txt","w",encoding='utf-8') as f2:
+        f2.write(str2)           
+extract_text()
