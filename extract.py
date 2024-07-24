@@ -7,9 +7,9 @@ def extract_text():
     length_one = len(pdf_one.pages)
     length_two = len(pdf_two.pages)
     for i in range(1,length_one):
-        str1 += pdf_one.pages[i].extract_text()
+        str1 += pdf_one.pages[i].extract_text().lower()
     for i in range(1,length_two):
-        str2 += pdf_two.pages[i].extract_text()
+        str2 += pdf_two.pages[i].extract_text().lower()
     #extracting text in a file called output.txt
     with open("output-1.txt","w",encoding='utf-8') as f1:
         f1.write(str1)

@@ -1,490 +1,490 @@
-R15032005-1@OKHDFCBANK-HDFC0008299-40999
-3210017-RECHARGE
-08/04/24 UPI-AGARWAL COMPANY-GPAY-11244120710@O 0000409993200764 08/04/24 20.00 1,691.71
-KBIZAXIS-UTIB0000000-409993200764-UPI
-09/04/24 UPI-GIRIRAJ KRUPA-Q646854390@YBL-YESB0YB 0000410033245842 09/04/24 80.00 1,611.71
-LUPI-410033245842-UPI
-09/04/24 UPI-AJARA BANK-Q264628012@YBL-YESB0YBLUP 0000410033328440 09/04/24 50.00 1,561.71
-I-410033328440-UPI
-09/04/24 UPI-TEJASWINI CHANDRAKAN-JADHAVTEJU423@A 0000446631621823 09/04/24 65.00 1,626.71
-XL-SBIN0008421-446631621823-PAYMENT FROM
-PHONE
-10/04/24 UPI-KAPIL SEVAK S O ISHV-PAYTMQR28100505 0000410175363570 10/04/24 10.00 1,616.71
-0101J325S2PVZQII@PAYTM-YESB0PTMUPI-41017
-5363570-UPI
-10/04/24 UPI-PUSHKAR SURESH KHAMI-KHAMITKARPUSHKA 0000410179024473 10/04/24 140.00 1,476.71
-R15032005-1@OKHDFCBANK-HDFC0008299-41017
-9024473-UPI
-10/04/24 AMB CHRG INCL GST FOR MAR2024-MIR2510040 MIR2510040248009 10/04/24 225.01 1,251.70
+r15032005-1@okhdfcbank-hdfc0008299-40999
+3210017-recharge
+08/04/24 upi-agarwal company-gpay-11244120710@o 0000409993200764 08/04/24 20.00 1,691.71
+kbizaxis-utib0000000-409993200764-upi
+09/04/24 upi-giriraj krupa-q646854390@ybl-yesb0yb 0000410033245842 09/04/24 80.00 1,611.71
+lupi-410033245842-upi
+09/04/24 upi-ajara bank-q264628012@ybl-yesb0yblup 0000410033328440 09/04/24 50.00 1,561.71
+i-410033328440-upi
+09/04/24 upi-tejaswini chandrakan-jadhavteju423@a 0000446631621823 09/04/24 65.00 1,626.71
+xl-sbin0008421-446631621823-payment from
+phone
+10/04/24 upi-kapil sevak s o ishv-paytmqr28100505 0000410175363570 10/04/24 10.00 1,616.71
+0101j325s2pvzqii@paytm-yesb0ptmupi-41017
+5363570-upi
+10/04/24 upi-pushkar suresh khami-khamitkarpushka 0000410179024473 10/04/24 140.00 1,476.71
+r15032005-1@okhdfcbank-hdfc0008299-41017
+9024473-upi
+10/04/24 amb chrg incl gst for mar2024-mir2510040 mir2510040248009 10/04/24 225.01 1,251.70
 248009
-10/04/24 UPI-RAHUL FAST FOOD-9763037134@OKBIZAXIS 0000410196098945 10/04/24 50.00 1,201.70
--UTIB0000000-410196098945-UPI
-11/04/24 UPI-SHRUTI KERKETTA-KERKETTASHRUTI0@OKSB 0000410234538620 11/04/24 20.00 1,181.70
-I-BKID0009382-410234538620-UPI
-12/04/24 CASH DEPOSIT BY - ASHISH - PANCHAVATI 000000000000000 12/04/24 2,000.00 3,181.70
-12/04/24 UPI-RATHOD MANASI AMOL-RATHODMANASI9-4@O 0000410355972827 12/04/24 70.00 3,111.70
-KICICI-SRCB0000374-410355972827-UPI
-12/04/24 UPI-SWEETY-PAYTMQR281005050101QG0KX571EO 0000410356256335 12/04/24 35.00 3,076.70
-2I@PAYTM-YESB0PTMUPI-410356256335-UPI
-12/04/24 UPI-KADHORE-8959447815@IBL-SBIN0030124-4 0000410374094976 12/04/24 20.00 3,056.70
-10374094976-UPI
-12/04/24 UPI-DHANRAJ BALCHANDRA P-PAYTMQRF2EJ00FR 0000410374460306 12/04/24 15.00 3,041.70
-IN@PAYTM-YESB0PTMUPI-410374460306-UPIPage No .: 2
-MS SALUNKE RUCHA ASHISH
-FLAT NO A20 A WING 5 TH FLOOR
-TOWN SQUIRE APPARTMENT OPPOSITE
-SHANI MANDIR PETH ROAD
-NASHIK 422003
-MAHARASHTRA INDIA
-JOINT HOLDERS :
-Nomination : Registered
-Statement of account From : 01/04/2024 To : 23/06/2024Account Branch : THATTE NAGAR
-Address : VASTUSHRI No.3
-THATTE NAGAR
-GANGAPUR COLLEGE, LINK ROAD
-City : NASHIK 422 005
-State : MAHARASHTRA
-Phone no. : 18002026161
-OD Limit : 0.00
-Currency : INR
-Email : RUCHASALUNKE24@GMAIL.COM
-Cust ID : 204788139
-Account No : 50100551588890 OTHER
-A/C Open Date : 02/09/2022
-Account Status : Regular
-RTGS/NEFT IFSC : HDFC0000064 MICR : 422240002
-Branch Code : 64 Product Code : 1133
-HDFC BANK LIMITED
-*Closing balance includes funds earmarked for hold and uncleared funds
-Contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.The address on this statement is that on record with the Bank as at the day of requesting
+10/04/24 upi-rahul fast food-9763037134@okbizaxis 0000410196098945 10/04/24 50.00 1,201.70
+-utib0000000-410196098945-upi
+11/04/24 upi-shruti kerketta-kerkettashruti0@oksb 0000410234538620 11/04/24 20.00 1,181.70
+i-bkid0009382-410234538620-upi
+12/04/24 cash deposit by - ashish - panchavati 000000000000000 12/04/24 2,000.00 3,181.70
+12/04/24 upi-rathod manasi amol-rathodmanasi9-4@o 0000410355972827 12/04/24 70.00 3,111.70
+kicici-srcb0000374-410355972827-upi
+12/04/24 upi-sweety-paytmqr281005050101qg0kx571eo 0000410356256335 12/04/24 35.00 3,076.70
+2i@paytm-yesb0ptmupi-410356256335-upi
+12/04/24 upi-kadhore-8959447815@ibl-sbin0030124-4 0000410374094976 12/04/24 20.00 3,056.70
+10374094976-upi
+12/04/24 upi-dhanraj balchandra p-paytmqrf2ej00fr 0000410374460306 12/04/24 15.00 3,041.70
+in@paytm-yesb0ptmupi-410374460306-upipage no .: 2
+ms salunke rucha ashish
+flat no a20 a wing 5 th floor
+town squire appartment opposite
+shani mandir peth road
+nashik 422003
+maharashtra india
+joint holders :
+nomination : registered
+statement of account from : 01/04/2024 to : 23/06/2024account branch : thatte nagar
+address : vastushri no.3
+thatte nagar
+gangapur college, link road
+city : nashik 422 005
+state : maharashtra
+phone no. : 18002026161
+od limit : 0.00
+currency : inr
+email : ruchasalunke24@gmail.com
+cust id : 204788139
+account no : 50100551588890 other
+a/c open date : 02/09/2022
+account status : regular
+rtgs/neft ifsc : hdfc0000064 micr : 422240002
+branch code : 64 product code : 1133
+hdfc bank limited
+*closing balance includes funds earmarked for hold and uncleared funds
+contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.the address on this statement is that on record with the bank as at the day of requesting
 this statement.
-State account branch GSTN:27AAACH2702H1Z0
-HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
-Registered Office Address: HDFC Bank House,Senapati Bapat Marg,Lower Parel,Mumbai 40001313/04/24 UPI-JIO PREPAID RECHARGE-PAYTM-JIOMOBILI 0000410489655593 13/04/24 19.00 3,022.70
-TY@PAYTM-YESB0PTMUPI-410489655593-UPI
-13/04/24 UPI-DIVYA CATERERS-Q231042930@YBL-YESB0Y 0000410495421511 13/04/24 70.00 2,952.70
-BLUPI-410495421511-UPI
-14/04/24 UPI-SANKET SHEKHAR WARKH-Q203413488@YBL- 0000410553499573 14/04/24 100.00 2,852.70
-YESB0YBLUPI-410553499573-UPI
-14/04/24 UPI-SHUBHANGI KIRAN SHEW-Q317201998@YBL- 0000410553603624 14/04/24 60.00 2,792.70
-YESB0YBLUPI-410553603624-UPI
-15/04/24 UPI-NIRAJ BHUJANGRAO BHA-NIRAJBHAGAT43@O 0000410680858144 15/04/24 100.00 2,692.70
-KICICI-BKID0000771-410680858144-UPI
-15/04/24 UPI-SWIGGYINSTAMART-SWIGGYINSTAMART@YESP 0000410689785685 15/04/24 488.00 2,204.70
-AY-YESB0YESUPI-410689785685-PAY FOR MERC
-HANT
-17/04/24 UPI-AGARWAL COMPANY-GPAY-11244120710@O 0000410850685298 17/04/24 20.00 2,184.70
-KBIZAXIS-UTIB0000000-410850685298-UPI
-17/04/24 UPI-PUSHKAR SURESH KHAMI-KHAMITKARPUSHKA 0000410868433725 17/04/24 70.00 2,114.70
-R15032005-1@OKHDFCBANK-HDFC0008299-41086
-8433725-UPI
-17/04/24 UPI-SANSKRITI DNYANDEO I-IGHESANSKRITI-1 0000410868480186 17/04/24 82.00 2,032.70
-@OKAXIS-UBIN0915572-410868480186-UPI
-18/04/24 UPI-SHRUTI KERKETTA-KERKETTASHRUTI0@OKAX 0000410995398401 18/04/24 100.00 1,932.70
-IS-BKID0009382-410995398401-UPI
-19/04/24 POS 526099XXXXXX4301 CAFE GOODLUCK 0000000000136067 19/04/24 252.00 1,680.70
-20/04/24 UPI-TEJASWINI KIRAN SUTA-PAYTMQR28100505 0000411165747725 20/04/24 80.00 1,600.70
-0101BUG3ZGJQ6KU3@PAYTM-YESB0PTMUPI-41116
-5747725-UPI
-20/04/24 UPI-REKHA ASHISH SALUNKE-REKHASALUNKE76@ 0000411176083577 20/04/24 1.00 1,601.70
-OKHDFCBANK-HDFC0000064-411176083577-UPI
-21/04/24 UPI-RAJAN
-KHAN-PAYTMQRMQ9TYOG5RJ@PAYTM-Y0000411222351530 21/04/24 99.00 1,502.70
-ESB0PTMUPI-411222351530-UPI
-22/04/24 UPI-HAPPYENTERPRISES-Q465930333@YBL-YESB 0000411366701391 23/04/24 30.00 1,472.70Page No .: 3
-MS SALUNKE RUCHA ASHISH
-FLAT NO A20 A WING 5 TH FLOOR
-TOWN SQUIRE APPARTMENT OPPOSITE
-SHANI MANDIR PETH ROAD
-NASHIK 422003
-MAHARASHTRA INDIA
-JOINT HOLDERS :
-Nomination : Registered
-Statement of account From : 01/04/2024 To : 23/06/2024Account Branch : THATTE NAGAR
-Address : VASTUSHRI No.3
-THATTE NAGAR
-GANGAPUR COLLEGE, LINK ROAD
-City : NASHIK 422 005
-State : MAHARASHTRA
-Phone no. : 18002026161
-OD Limit : 0.00
-Currency : INR
-Email : RUCHASALUNKE24@GMAIL.COM
-Cust ID : 204788139
-Account No : 50100551588890 OTHER
-A/C Open Date : 02/09/2022
-Account Status : Regular
-RTGS/NEFT IFSC : HDFC0000064 MICR : 422240002
-Branch Code : 64 Product Code : 1133
-HDFC BANK LIMITED
-*Closing balance includes funds earmarked for hold and uncleared funds
-Contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.The address on this statement is that on record with the Bank as at the day of requesting
+state account branch gstn:27aaach2702h1z0
+hdfc bank gstin number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
+registered office address: hdfc bank house,senapati bapat marg,lower parel,mumbai 40001313/04/24 upi-jio prepaid recharge-paytm-jiomobili 0000410489655593 13/04/24 19.00 3,022.70
+ty@paytm-yesb0ptmupi-410489655593-upi
+13/04/24 upi-divya caterers-q231042930@ybl-yesb0y 0000410495421511 13/04/24 70.00 2,952.70
+blupi-410495421511-upi
+14/04/24 upi-sanket shekhar warkh-q203413488@ybl- 0000410553499573 14/04/24 100.00 2,852.70
+yesb0yblupi-410553499573-upi
+14/04/24 upi-shubhangi kiran shew-q317201998@ybl- 0000410553603624 14/04/24 60.00 2,792.70
+yesb0yblupi-410553603624-upi
+15/04/24 upi-niraj bhujangrao bha-nirajbhagat43@o 0000410680858144 15/04/24 100.00 2,692.70
+kicici-bkid0000771-410680858144-upi
+15/04/24 upi-swiggyinstamart-swiggyinstamart@yesp 0000410689785685 15/04/24 488.00 2,204.70
+ay-yesb0yesupi-410689785685-pay for merc
+hant
+17/04/24 upi-agarwal company-gpay-11244120710@o 0000410850685298 17/04/24 20.00 2,184.70
+kbizaxis-utib0000000-410850685298-upi
+17/04/24 upi-pushkar suresh khami-khamitkarpushka 0000410868433725 17/04/24 70.00 2,114.70
+r15032005-1@okhdfcbank-hdfc0008299-41086
+8433725-upi
+17/04/24 upi-sanskriti dnyandeo i-ighesanskriti-1 0000410868480186 17/04/24 82.00 2,032.70
+@okaxis-ubin0915572-410868480186-upi
+18/04/24 upi-shruti kerketta-kerkettashruti0@okax 0000410995398401 18/04/24 100.00 1,932.70
+is-bkid0009382-410995398401-upi
+19/04/24 pos 526099xxxxxx4301 cafe goodluck 0000000000136067 19/04/24 252.00 1,680.70
+20/04/24 upi-tejaswini kiran suta-paytmqr28100505 0000411165747725 20/04/24 80.00 1,600.70
+0101bug3zgjq6ku3@paytm-yesb0ptmupi-41116
+5747725-upi
+20/04/24 upi-rekha ashish salunke-rekhasalunke76@ 0000411176083577 20/04/24 1.00 1,601.70
+okhdfcbank-hdfc0000064-411176083577-upi
+21/04/24 upi-rajan
+khan-paytmqrmq9tyog5rj@paytm-y0000411222351530 21/04/24 99.00 1,502.70
+esb0ptmupi-411222351530-upi
+22/04/24 upi-happyenterprises-q465930333@ybl-yesb 0000411366701391 23/04/24 30.00 1,472.70page no .: 3
+ms salunke rucha ashish
+flat no a20 a wing 5 th floor
+town squire appartment opposite
+shani mandir peth road
+nashik 422003
+maharashtra india
+joint holders :
+nomination : registered
+statement of account from : 01/04/2024 to : 23/06/2024account branch : thatte nagar
+address : vastushri no.3
+thatte nagar
+gangapur college, link road
+city : nashik 422 005
+state : maharashtra
+phone no. : 18002026161
+od limit : 0.00
+currency : inr
+email : ruchasalunke24@gmail.com
+cust id : 204788139
+account no : 50100551588890 other
+a/c open date : 02/09/2022
+account status : regular
+rtgs/neft ifsc : hdfc0000064 micr : 422240002
+branch code : 64 product code : 1133
+hdfc bank limited
+*closing balance includes funds earmarked for hold and uncleared funds
+contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.the address on this statement is that on record with the bank as at the day of requesting
 this statement.
-State account branch GSTN:27AAACH2702H1Z0
-HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
-Registered Office Address: HDFC Bank House,Senapati Bapat Marg,Lower Parel,Mumbai 4000130YBLUPI-411366701391-UPI
-23/04/24 UPI-SWIGGY-SWIGGYSTORES@ICICI-ICIC0DC009 0000411480840874 23/04/24 106.00 1,366.70
-9-411480840874-UPI
-24/04/24 UPI-ANJALI RAJENDRA DEOK-ANJALIDEOKAR.AD 0000411540716331 24/04/24 1,000.00 2,366.70
--1@OKSBI-SBIN0011669-411540716331-RUCHA
-BIRTHDAY GIF
-24/04/24 UPI-PIZZA HUT-PIZZAHUT.63167074@HDFCBANK 0000411524909154 24/04/24 1,510.00 856.70
--HDFC0000001-411524909154-UPI
-24/04/24 UPI-PUSHKAR SURESH KHAMI-KHAMITKARPUSHKA 0000411538091449 24/04/24 65.00 791.70
-R15032005-1@OKHDFCBANK-HDFC0008299-41153
-8091449-OS PRINTS
-25/04/24 UPI-SANSKRITI DNYANDEO I-IGHESANSKRITI-1 0000411674023241 25/04/24 24.00 767.70
-@OKAXIS-UBIN0915572-411674023241-UPI
-26/04/24 UPI-HARSHWARDHAN COLDRIN-Q971506369@YBL- 0000411792536231 26/04/24 40.00 727.70
-YESB0YBLUPI-411792536231-UPI
-26/04/24 UPI-RATHOD MANASI AMOL-RATHODMANASI9-4@O 0000448351588509 26/04/24 20.00 747.70
-KICICI-SRCB0000374-448351588509-NIRA
-26/04/24 UPI-RATHOD MANASI AMOL-RATHODMANASI9-4@O 0000411702788262 26/04/24 50.00 697.70
-KICICI-SRCB0000374-411702788262-UPI
-27/04/24 UPI-PUSHKAR SURESH KHAMI-KHAMITKARPUSHKA 0000411831614327 27/04/24 140.00 557.70
-R15032005-1@OKHDFCBANK-HDFC0008299-41183
-1614327-UPI
-28/04/24 UPI-SANSKRITI DNYANDEO I-IGHESANSKRITI-1 0000411965268147 28/04/24 197.00 360.70
-@OKAXIS-UBIN0915572-411965268147-UPI
-28/04/24 UPI-AARYA SUMANT KULKARN-9699988736@CNRB 0000411965407052 28/04/24 105.00 255.70
--CNRB0000033-411965407052-UPI
-28/04/24 UPI-KIRAN ANIL PATIL-8329812213@YBL-SBIN 0000411965560242 28/04/24 52.00 203.70
-0018300-411965560242-UPI
-28/04/24 UPI-KIRAN ANIL PATIL-8329812213@YBL-SBIN 0000411965618541 28/04/24 11.25 192.45
-0018300-411965618541-UPI
-28/04/24 UPI-PUSHKAR SURESH KHAMI-KHAMITKARPUSHKA 0000411982676169 28/04/24 40.00 152.45
-R15032005-1@OKHDFCBANK-HDFC0008299-41198Page No .: 4
-MS SALUNKE RUCHA ASHISH
-FLAT NO A20 A WING 5 TH FLOOR
-TOWN SQUIRE APPARTMENT OPPOSITE
-SHANI MANDIR PETH ROAD
-NASHIK 422003
-MAHARASHTRA INDIA
-JOINT HOLDERS :
-Nomination : Registered
-Statement of account From : 01/04/2024 To : 23/06/2024Account Branch : THATTE NAGAR
-Address : VASTUSHRI No.3
-THATTE NAGAR
-GANGAPUR COLLEGE, LINK ROAD
-City : NASHIK 422 005
-State : MAHARASHTRA
-Phone no. : 18002026161
-OD Limit : 0.00
-Currency : INR
-Email : RUCHASALUNKE24@GMAIL.COM
-Cust ID : 204788139
-Account No : 50100551588890 OTHER
-A/C Open Date : 02/09/2022
-Account Status : Regular
-RTGS/NEFT IFSC : HDFC0000064 MICR : 422240002
-Branch Code : 64 Product Code : 1133
-HDFC BANK LIMITED
-*Closing balance includes funds earmarked for hold and uncleared funds
-Contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.The address on this statement is that on record with the Bank as at the day of requesting
+state account branch gstn:27aaach2702h1z0
+hdfc bank gstin number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
+registered office address: hdfc bank house,senapati bapat marg,lower parel,mumbai 4000130yblupi-411366701391-upi
+23/04/24 upi-swiggy-swiggystores@icici-icic0dc009 0000411480840874 23/04/24 106.00 1,366.70
+9-411480840874-upi
+24/04/24 upi-anjali rajendra deok-anjalideokar.ad 0000411540716331 24/04/24 1,000.00 2,366.70
+-1@oksbi-sbin0011669-411540716331-rucha
+birthday gif
+24/04/24 upi-pizza hut-pizzahut.63167074@hdfcbank 0000411524909154 24/04/24 1,510.00 856.70
+-hdfc0000001-411524909154-upi
+24/04/24 upi-pushkar suresh khami-khamitkarpushka 0000411538091449 24/04/24 65.00 791.70
+r15032005-1@okhdfcbank-hdfc0008299-41153
+8091449-os prints
+25/04/24 upi-sanskriti dnyandeo i-ighesanskriti-1 0000411674023241 25/04/24 24.00 767.70
+@okaxis-ubin0915572-411674023241-upi
+26/04/24 upi-harshwardhan coldrin-q971506369@ybl- 0000411792536231 26/04/24 40.00 727.70
+yesb0yblupi-411792536231-upi
+26/04/24 upi-rathod manasi amol-rathodmanasi9-4@o 0000448351588509 26/04/24 20.00 747.70
+kicici-srcb0000374-448351588509-nira
+26/04/24 upi-rathod manasi amol-rathodmanasi9-4@o 0000411702788262 26/04/24 50.00 697.70
+kicici-srcb0000374-411702788262-upi
+27/04/24 upi-pushkar suresh khami-khamitkarpushka 0000411831614327 27/04/24 140.00 557.70
+r15032005-1@okhdfcbank-hdfc0008299-41183
+1614327-upi
+28/04/24 upi-sanskriti dnyandeo i-ighesanskriti-1 0000411965268147 28/04/24 197.00 360.70
+@okaxis-ubin0915572-411965268147-upi
+28/04/24 upi-aarya sumant kulkarn-9699988736@cnrb 0000411965407052 28/04/24 105.00 255.70
+-cnrb0000033-411965407052-upi
+28/04/24 upi-kiran anil patil-8329812213@ybl-sbin 0000411965560242 28/04/24 52.00 203.70
+0018300-411965560242-upi
+28/04/24 upi-kiran anil patil-8329812213@ybl-sbin 0000411965618541 28/04/24 11.25 192.45
+0018300-411965618541-upi
+28/04/24 upi-pushkar suresh khami-khamitkarpushka 0000411982676169 28/04/24 40.00 152.45
+r15032005-1@okhdfcbank-hdfc0008299-41198page no .: 4
+ms salunke rucha ashish
+flat no a20 a wing 5 th floor
+town squire appartment opposite
+shani mandir peth road
+nashik 422003
+maharashtra india
+joint holders :
+nomination : registered
+statement of account from : 01/04/2024 to : 23/06/2024account branch : thatte nagar
+address : vastushri no.3
+thatte nagar
+gangapur college, link road
+city : nashik 422 005
+state : maharashtra
+phone no. : 18002026161
+od limit : 0.00
+currency : inr
+email : ruchasalunke24@gmail.com
+cust id : 204788139
+account no : 50100551588890 other
+a/c open date : 02/09/2022
+account status : regular
+rtgs/neft ifsc : hdfc0000064 micr : 422240002
+branch code : 64 product code : 1133
+hdfc bank limited
+*closing balance includes funds earmarked for hold and uncleared funds
+contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.the address on this statement is that on record with the bank as at the day of requesting
 this statement.
-State account branch GSTN:27AAACH2702H1Z0
-HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
-Registered Office Address: HDFC Bank House,Senapati Bapat Marg,Lower Parel,Mumbai 4000132676169-UPI
-28/04/24 UPI-RATHOD MANASI AMOL-RATHODMANASI9-4@O 0000411982805596 28/04/24 15.00 137.45
-KICICI-SRCB0000374-411982805596-UPI
-28/04/24 UPI-BALU DEVIDAS UNHALE-BHARATPE.9006341 0000411986872075 28/04/24 40.00 97.45
-3199@FBPE-FDRL0001382-411986872075-PAY T
-O BHARATPE ME
-28/04/24 UPI-RAVINDRA YADAV-Q129317656@YBL-YESB0 0000411986940189 28/04/24 15.00 82.45
-YBLUPI-411986940189-UPI
-28/04/24 UPI-MRS LAXMI SUNIL BHAD-PAYTMQRE9DT1OK8 0000411987664389 28/04/24 50.00 32.45
-Y1@PAYTM-YESB0PTMUPI-411987664389-UPI
-29/04/24 UPI-REKHA ASHISH SALUNKE-REKHASALUNKE76@ 0000412019356032 29/04/24 1,000.00 1,032.45
-OKHDFCBANK-HDFC0000064-412019356032-UPI
-30/04/24 UPI-JIO PREPAID RECHARGE-PAYTM-JIOMOBILI 0000412152083627 30/04/24 155.00 877.45
-TY@PAYTM-YESB0PTMUPI-412152083627-UPI
-01/05/24 UPI-ABHIJEET VILAS KOTHA-ABHIJEETKOTHARI 0000412299961209 01/05/24 195.00 682.45
-13@OKSBI-SBIN0011127-412299961209-UPI
-01/05/24 UPI-AGARWAL COMPANY-GPAY-11244120710@O 0000412202436119 01/05/24 20.00 662.45
-KBIZAXIS-UTIB0000000-412202436119-UPI
-01/05/24 UPI-FERAJUL
-HOQUE-PAYTMQRUTCI3HHNEE@PAYT0000412202498216 01/05/24 35.00 627.45
-M-YESB0PTMUPI-412202498216-UPI
-01/05/24 UPI-AGARWAL COMPANY-GPAY-11244120710@O 0000412202891035 01/05/24 20.00 607.45
-KBIZAXIS-UTIB0000000-412202891035-UPI
-01/05/24 UPI-PRITPALSINGH SUJANSI-Q707524202@YBL- 0000412204158477 01/05/24 132.00 475.45
-YESB0YBLUPI-412204158477-UPI
-02/05/24 UPI-KIRAN ANIL PATIL-8329812213@YBL-SBIN 0000412339639055 02/05/24 66.00 409.45
-0018300-412339639055-UPI
-03/05/24 UPI-SPOTIFY INDIA-SPOTIFY.BDSI@ICICI-ICI 0000412457668244 03/05/24 59.00 350.45
-C0DC0099-412457668244-MANDATEREQUEST
-03/05/24 UPI-SHETTY MANJUNATH
-RAM-PAYTMQR850QZKAN0000412470908569 03/05/24 50.00 300.45
-SW@PAYTM-YESB0PTMUPI-412470908569-UPIPage No .: 5
-MS SALUNKE RUCHA ASHISH
-FLAT NO A20 A WING 5 TH FLOOR
-TOWN SQUIRE APPARTMENT OPPOSITE
-SHANI MANDIR PETH ROAD
-NASHIK 422003
-MAHARASHTRA INDIA
-JOINT HOLDERS :
-Nomination : Registered
-Statement of account From : 01/04/2024 To : 23/06/2024Account Branch : THATTE NAGAR
-Address : VASTUSHRI No.3
-THATTE NAGAR
-GANGAPUR COLLEGE, LINK ROAD
-City : NASHIK 422 005
-State : MAHARASHTRA
-Phone no. : 18002026161
-OD Limit : 0.00
-Currency : INR
-Email : RUCHASALUNKE24@GMAIL.COM
-Cust ID : 204788139
-Account No : 50100551588890 OTHER
-A/C Open Date : 02/09/2022
-Account Status : Regular
-RTGS/NEFT IFSC : HDFC0000064 MICR : 422240002
-Branch Code : 64 Product Code : 1133
-HDFC BANK LIMITED
-*Closing balance includes funds earmarked for hold and uncleared funds
-Contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.The address on this statement is that on record with the Bank as at the day of requesting
+state account branch gstn:27aaach2702h1z0
+hdfc bank gstin number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
+registered office address: hdfc bank house,senapati bapat marg,lower parel,mumbai 4000132676169-upi
+28/04/24 upi-rathod manasi amol-rathodmanasi9-4@o 0000411982805596 28/04/24 15.00 137.45
+kicici-srcb0000374-411982805596-upi
+28/04/24 upi-balu devidas unhale-bharatpe.9006341 0000411986872075 28/04/24 40.00 97.45
+3199@fbpe-fdrl0001382-411986872075-pay t
+o bharatpe me
+28/04/24 upi-ravindra yadav-q129317656@ybl-yesb0 0000411986940189 28/04/24 15.00 82.45
+yblupi-411986940189-upi
+28/04/24 upi-mrs laxmi sunil bhad-paytmqre9dt1ok8 0000411987664389 28/04/24 50.00 32.45
+y1@paytm-yesb0ptmupi-411987664389-upi
+29/04/24 upi-rekha ashish salunke-rekhasalunke76@ 0000412019356032 29/04/24 1,000.00 1,032.45
+okhdfcbank-hdfc0000064-412019356032-upi
+30/04/24 upi-jio prepaid recharge-paytm-jiomobili 0000412152083627 30/04/24 155.00 877.45
+ty@paytm-yesb0ptmupi-412152083627-upi
+01/05/24 upi-abhijeet vilas kotha-abhijeetkothari 0000412299961209 01/05/24 195.00 682.45
+13@oksbi-sbin0011127-412299961209-upi
+01/05/24 upi-agarwal company-gpay-11244120710@o 0000412202436119 01/05/24 20.00 662.45
+kbizaxis-utib0000000-412202436119-upi
+01/05/24 upi-ferajul
+hoque-paytmqrutci3hhnee@payt0000412202498216 01/05/24 35.00 627.45
+m-yesb0ptmupi-412202498216-upi
+01/05/24 upi-agarwal company-gpay-11244120710@o 0000412202891035 01/05/24 20.00 607.45
+kbizaxis-utib0000000-412202891035-upi
+01/05/24 upi-pritpalsingh sujansi-q707524202@ybl- 0000412204158477 01/05/24 132.00 475.45
+yesb0yblupi-412204158477-upi
+02/05/24 upi-kiran anil patil-8329812213@ybl-sbin 0000412339639055 02/05/24 66.00 409.45
+0018300-412339639055-upi
+03/05/24 upi-spotify india-spotify.bdsi@icici-ici 0000412457668244 03/05/24 59.00 350.45
+c0dc0099-412457668244-mandaterequest
+03/05/24 upi-shetty manjunath
+ram-paytmqr850qzkan0000412470908569 03/05/24 50.00 300.45
+sw@paytm-yesb0ptmupi-412470908569-upipage no .: 5
+ms salunke rucha ashish
+flat no a20 a wing 5 th floor
+town squire appartment opposite
+shani mandir peth road
+nashik 422003
+maharashtra india
+joint holders :
+nomination : registered
+statement of account from : 01/04/2024 to : 23/06/2024account branch : thatte nagar
+address : vastushri no.3
+thatte nagar
+gangapur college, link road
+city : nashik 422 005
+state : maharashtra
+phone no. : 18002026161
+od limit : 0.00
+currency : inr
+email : ruchasalunke24@gmail.com
+cust id : 204788139
+account no : 50100551588890 other
+a/c open date : 02/09/2022
+account status : regular
+rtgs/neft ifsc : hdfc0000064 micr : 422240002
+branch code : 64 product code : 1133
+hdfc bank limited
+*closing balance includes funds earmarked for hold and uncleared funds
+contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.the address on this statement is that on record with the bank as at the day of requesting
 this statement.
-State account branch GSTN:27AAACH2702H1Z0
-HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
-Registered Office Address: HDFC Bank House,Senapati Bapat Marg,Lower Parel,Mumbai 40001303/05/24 UPI-DIVYA CATERERS-Q231042930@YBL-YESB0Y 0000412470987856 03/05/24 15.00 285.45
-BLUPI-412470987856-UPI
-03/05/24 UPI-SHRUTI KERKETTA-KERKETTASHRUTI0@OKAX 0000412481499415 03/05/24 35.00 250.45
-IS-BKID0009382-412481499415-DHOKLA
-04/05/24 UPI-SHRUTI KERKETTA-KERKETTASHRUTI0@OKAX 0000412516067481 04/05/24 61.00 189.45
-IS-BKID0009382-412516067481-UPI
-05/05/24 UPI-ZOMATO
-LIMITED-ZOMATOORDER1.GPAY@OKP0000412669923799 05/05/24 155.55 33.90
-AYAXIS-UTIB0000553-412669923799-UPI
-05/05/24 UPI-ANJALI DEEPAK JOSHI-Q768315861@YBL-Y 0000412670277900 05/05/24 20.00 13.90
-ESB0YBLUPI-412670277900-UPI
-06/05/24 UPI-REKHA ASHISH SALUNKE-REKHASALUNKE76@ 0000412791614579 06/05/24 100.00 113.90
-OKHDFCBANK-HDFC0000064-412791614579-UPI
-06/05/24 UPI-POPATGENBAPHADATARE-Q716338664@YBL-Y 0000412791647073 06/05/24 20.00 93.90
-ESB0YBLUPI-412791647073-UPI
-07/05/24 UPI-REKHA ASHISH SALUNKE-REKHASALUNKE76@ 0000412818928243 07/05/24 400.00 493.90
-OKHDFCBANK-HDFC0000064-412818928243-UPI
-07/05/24 UPI-TEJASWINI CHANDRAKAN-JADHAVTEJU423@A 0000449473632910 07/05/24 27.50 521.40
-XL-SBIN0008421-449473632910-PAYMENT FROM
-PHONE
-07/05/24 UPI-AGARWAL COMPANY-GPAY-11244120710@O 0000412834190199 07/05/24 60.00 461.40
-KBIZAXIS-UTIB0000000-412834190199-UPI
-07/05/24 UPI-DINESHAN K-PAYTMQR1XZW3SLZWE@PAYTM- 0000412852117387 07/05/24 80.00 381.40
-YESB0PTMUPI-412852117387-UPI
-08/05/24 UPI-RATHOD MANASI AMOL-RATHODMANASI9-4@O 0000412978795677 08/05/24 300.00 81.40
-KICICI-SRCB0000374-412978795677-UPI
-09/05/24 AMB CHRG INCL GST FOR APR2024-MIR2512894 MIR2512894823273 09/05/24 81.40 0.00
+state account branch gstn:27aaach2702h1z0
+hdfc bank gstin number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
+registered office address: hdfc bank house,senapati bapat marg,lower parel,mumbai 40001303/05/24 upi-divya caterers-q231042930@ybl-yesb0y 0000412470987856 03/05/24 15.00 285.45
+blupi-412470987856-upi
+03/05/24 upi-shruti kerketta-kerkettashruti0@okax 0000412481499415 03/05/24 35.00 250.45
+is-bkid0009382-412481499415-dhokla
+04/05/24 upi-shruti kerketta-kerkettashruti0@okax 0000412516067481 04/05/24 61.00 189.45
+is-bkid0009382-412516067481-upi
+05/05/24 upi-zomato
+limited-zomatoorder1.gpay@okp0000412669923799 05/05/24 155.55 33.90
+ayaxis-utib0000553-412669923799-upi
+05/05/24 upi-anjali deepak joshi-q768315861@ybl-y 0000412670277900 05/05/24 20.00 13.90
+esb0yblupi-412670277900-upi
+06/05/24 upi-rekha ashish salunke-rekhasalunke76@ 0000412791614579 06/05/24 100.00 113.90
+okhdfcbank-hdfc0000064-412791614579-upi
+06/05/24 upi-popatgenbaphadatare-q716338664@ybl-y 0000412791647073 06/05/24 20.00 93.90
+esb0yblupi-412791647073-upi
+07/05/24 upi-rekha ashish salunke-rekhasalunke76@ 0000412818928243 07/05/24 400.00 493.90
+okhdfcbank-hdfc0000064-412818928243-upi
+07/05/24 upi-tejaswini chandrakan-jadhavteju423@a 0000449473632910 07/05/24 27.50 521.40
+xl-sbin0008421-449473632910-payment from
+phone
+07/05/24 upi-agarwal company-gpay-11244120710@o 0000412834190199 07/05/24 60.00 461.40
+kbizaxis-utib0000000-412834190199-upi
+07/05/24 upi-dineshan k-paytmqr1xzw3slzwe@paytm- 0000412852117387 07/05/24 80.00 381.40
+yesb0ptmupi-412852117387-upi
+08/05/24 upi-rathod manasi amol-rathodmanasi9-4@o 0000412978795677 08/05/24 300.00 81.40
+kicici-srcb0000374-412978795677-upi
+09/05/24 amb chrg incl gst for apr2024-mir2512894 mir2512894823273 09/05/24 81.40 0.00
 823273
-13/05/24 UPI-REKHA ASHISH SALUNKE-REKHASALUNKE76@ 0000413483450809 13/05/24 1,350.00 1,350.00
-OKHDFCBANK-HDFC0000064-413483450809-UPI
-13/05/24 UPI-MISS SAKSHI SANJAY M-SMORE81800@OKAX 0000413483520178 13/05/24 1,350.00 0.00
-IS-MAHB0000043-413483520178-MESS FOR APRPage No .: 6
-MS SALUNKE RUCHA ASHISH
-FLAT NO A20 A WING 5 TH FLOOR
-TOWN SQUIRE APPARTMENT OPPOSITE
-SHANI MANDIR PETH ROAD
-NASHIK 422003
-MAHARASHTRA INDIA
-JOINT HOLDERS :
-Nomination : Registered
-Statement of account From : 01/04/2024 To : 23/06/2024Account Branch : THATTE NAGAR
-Address : VASTUSHRI No.3
-THATTE NAGAR
-GANGAPUR COLLEGE, LINK ROAD
-City : NASHIK 422 005
-State : MAHARASHTRA
-Phone no. : 18002026161
-OD Limit : 0.00
-Currency : INR
-Email : RUCHASALUNKE24@GMAIL.COM
-Cust ID : 204788139
-Account No : 50100551588890 OTHER
-A/C Open Date : 02/09/2022
-Account Status : Regular
-RTGS/NEFT IFSC : HDFC0000064 MICR : 422240002
-Branch Code : 64 Product Code : 1133
-HDFC BANK LIMITED
-*Closing balance includes funds earmarked for hold and uncleared funds
-Contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.The address on this statement is that on record with the Bank as at the day of requesting
+13/05/24 upi-rekha ashish salunke-rekhasalunke76@ 0000413483450809 13/05/24 1,350.00 1,350.00
+okhdfcbank-hdfc0000064-413483450809-upi
+13/05/24 upi-miss sakshi sanjay m-smore81800@okax 0000413483520178 13/05/24 1,350.00 0.00
+is-mahb0000043-413483520178-mess for aprpage no .: 6
+ms salunke rucha ashish
+flat no a20 a wing 5 th floor
+town squire appartment opposite
+shani mandir peth road
+nashik 422003
+maharashtra india
+joint holders :
+nomination : registered
+statement of account from : 01/04/2024 to : 23/06/2024account branch : thatte nagar
+address : vastushri no.3
+thatte nagar
+gangapur college, link road
+city : nashik 422 005
+state : maharashtra
+phone no. : 18002026161
+od limit : 0.00
+currency : inr
+email : ruchasalunke24@gmail.com
+cust id : 204788139
+account no : 50100551588890 other
+a/c open date : 02/09/2022
+account status : regular
+rtgs/neft ifsc : hdfc0000064 micr : 422240002
+branch code : 64 product code : 1133
+hdfc bank limited
+*closing balance includes funds earmarked for hold and uncleared funds
+contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.the address on this statement is that on record with the bank as at the day of requesting
 this statement.
-State account branch GSTN:27AAACH2702H1Z0
-HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
-Registered Office Address: HDFC Bank House,Senapati Bapat Marg,Lower Parel,Mumbai 400013IL
-13/05/24 UPI-REKHA ASHISH SALUNKE-REKHASALUNKE76@ 0000413499792124 13/05/24 1,500.00 1,500.00
-OKHDFCBANK-HDFC0000064-413499792124-UPI
-14/05/24 UPI-VODAFONEIDEA LIMITED-VODAFONE1.PAYU@ 0000413504623591 14/05/24 179.00 1,321.00
-HDFCBANK-HDFC0000499-413504623591-UPI
-14/05/24 UPI-ARCHANA PITAR MISAL-Q048775613@YBL-Y 0000413509759524 14/05/24 30.00 1,291.00
-ESB0YBLUPI-413509759524-UPI
-14/05/24 UPI-SHRUTI KERKETTA-KERKETTASHRUTI0@OKAX 0000413538533012 14/05/24 40.00 1,251.00
-IS-BKID0009382-413538533012-FRUIT PLATE
-15/05/24 UPI-SANSKRITI DNYANDEO I-IGHESANSKRITI-1 0000413668444696 15/05/24 90.00 1,161.00
-@OKAXIS-UBIN0915572-413668444696-UPI
-15/05/24 UPI-PRITPALSINGH SUJANSI-PAYTMQR1VBGLTY3 0000413676353636 15/05/24 15.00 1,146.00
-Q2@PAYTM-YESB0PTMUPI-413676353636-UPI
-16/05/24 UPI-DIVYA CATERERS-Q231042930@YBL-YESB0Y 0000413701109069 16/05/24 60.00 1,086.00
-BLUPI-413701109069-UPI
-17/05/24 UPI-PUSHKAR SURESH KHAMI-KHAMITKARPUSHKA 0000413847159977 17/05/24 75.00 1,011.00
-R15032005-1@OKHDFCBANK-HDFC0008299-41384
-7159977-UPI
-18/05/24 UPI-RATHOD MANASI AMOL-RATHODMANASI9-4@O 0000450541953510 18/05/24 45.00 1,056.00
-KICICI-SRCB0000374-450541953510-JM WADAP
-AV
-18/05/24 UPI-RATHOD MANASI AMOL-RATHODMANASI9-4@O 0000450527454571 18/05/24 36.50 1,092.50
-KICICI-SRCB0000374-450527454571-GOODLUCK
-CAFE
-19/05/24 UPI-SANSKRITI DNYANDEO I-IGHESANSKRITI-1 0000414031621983 19/05/24 145.00 947.50
-@OKAXIS-UBIN0915572-414031621983-UPI
-20/05/24 UPI-VODAFONEIDEA LIMITED-VODAFONE1.PAYU@ 0000414150359027 20/05/24 39.00 908.50
-HDFCBANK-HDFC0000499-414150359027-UPI
-20/05/24 UPI-SANSKRITI DNYANDEO I-IGHESANSKRITI-1 0000414150716775 20/05/24 85.00 823.50
-@OKAXIS-UBIN0915572-414150716775-UPI
-21/05/24 UPI-SHETTY MANJUNATH RAM-PAYTMQR165L0G@P 0000414294727125 21/05/24 50.00 773.50
-AYTM-YESB0PTMUPI-414294727125-MASALA DOSPage No .: 7
-MS SALUNKE RUCHA ASHISH
-FLAT NO A20 A WING 5 TH FLOOR
-TOWN SQUIRE APPARTMENT OPPOSITE
-SHANI MANDIR PETH ROAD
-NASHIK 422003
-MAHARASHTRA INDIA
-JOINT HOLDERS :
-Nomination : Registered
-Statement of account From : 01/04/2024 To : 23/06/2024Account Branch : THATTE NAGAR
-Address : VASTUSHRI No.3
-THATTE NAGAR
-GANGAPUR COLLEGE, LINK ROAD
-City : NASHIK 422 005
-State : MAHARASHTRA
-Phone no. : 18002026161
-OD Limit : 0.00
-Currency : INR
-Email : RUCHASALUNKE24@GMAIL.COM
-Cust ID : 204788139
-Account No : 50100551588890 OTHER
-A/C Open Date : 02/09/2022
-Account Status : Regular
-RTGS/NEFT IFSC : HDFC0000064 MICR : 422240002
-Branch Code : 64 Product Code : 1133
-HDFC BANK LIMITED
-*Closing balance includes funds earmarked for hold and uncleared funds
-Contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.The address on this statement is that on record with the Bank as at the day of requesting
+state account branch gstn:27aaach2702h1z0
+hdfc bank gstin number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
+registered office address: hdfc bank house,senapati bapat marg,lower parel,mumbai 400013il
+13/05/24 upi-rekha ashish salunke-rekhasalunke76@ 0000413499792124 13/05/24 1,500.00 1,500.00
+okhdfcbank-hdfc0000064-413499792124-upi
+14/05/24 upi-vodafoneidea limited-vodafone1.payu@ 0000413504623591 14/05/24 179.00 1,321.00
+hdfcbank-hdfc0000499-413504623591-upi
+14/05/24 upi-archana pitar misal-q048775613@ybl-y 0000413509759524 14/05/24 30.00 1,291.00
+esb0yblupi-413509759524-upi
+14/05/24 upi-shruti kerketta-kerkettashruti0@okax 0000413538533012 14/05/24 40.00 1,251.00
+is-bkid0009382-413538533012-fruit plate
+15/05/24 upi-sanskriti dnyandeo i-ighesanskriti-1 0000413668444696 15/05/24 90.00 1,161.00
+@okaxis-ubin0915572-413668444696-upi
+15/05/24 upi-pritpalsingh sujansi-paytmqr1vbglty3 0000413676353636 15/05/24 15.00 1,146.00
+q2@paytm-yesb0ptmupi-413676353636-upi
+16/05/24 upi-divya caterers-q231042930@ybl-yesb0y 0000413701109069 16/05/24 60.00 1,086.00
+blupi-413701109069-upi
+17/05/24 upi-pushkar suresh khami-khamitkarpushka 0000413847159977 17/05/24 75.00 1,011.00
+r15032005-1@okhdfcbank-hdfc0008299-41384
+7159977-upi
+18/05/24 upi-rathod manasi amol-rathodmanasi9-4@o 0000450541953510 18/05/24 45.00 1,056.00
+kicici-srcb0000374-450541953510-jm wadap
+av
+18/05/24 upi-rathod manasi amol-rathodmanasi9-4@o 0000450527454571 18/05/24 36.50 1,092.50
+kicici-srcb0000374-450527454571-goodluck
+cafe
+19/05/24 upi-sanskriti dnyandeo i-ighesanskriti-1 0000414031621983 19/05/24 145.00 947.50
+@okaxis-ubin0915572-414031621983-upi
+20/05/24 upi-vodafoneidea limited-vodafone1.payu@ 0000414150359027 20/05/24 39.00 908.50
+hdfcbank-hdfc0000499-414150359027-upi
+20/05/24 upi-sanskriti dnyandeo i-ighesanskriti-1 0000414150716775 20/05/24 85.00 823.50
+@okaxis-ubin0915572-414150716775-upi
+21/05/24 upi-shetty manjunath ram-paytmqr165l0g@p 0000414294727125 21/05/24 50.00 773.50
+aytm-yesb0ptmupi-414294727125-masala dospage no .: 7
+ms salunke rucha ashish
+flat no a20 a wing 5 th floor
+town squire appartment opposite
+shani mandir peth road
+nashik 422003
+maharashtra india
+joint holders :
+nomination : registered
+statement of account from : 01/04/2024 to : 23/06/2024account branch : thatte nagar
+address : vastushri no.3
+thatte nagar
+gangapur college, link road
+city : nashik 422 005
+state : maharashtra
+phone no. : 18002026161
+od limit : 0.00
+currency : inr
+email : ruchasalunke24@gmail.com
+cust id : 204788139
+account no : 50100551588890 other
+a/c open date : 02/09/2022
+account status : regular
+rtgs/neft ifsc : hdfc0000064 micr : 422240002
+branch code : 64 product code : 1133
+hdfc bank limited
+*closing balance includes funds earmarked for hold and uncleared funds
+contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.the address on this statement is that on record with the bank as at the day of requesting
 this statement.
-State account branch GSTN:27AAACH2702H1Z0
-HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
-Registered Office Address: HDFC Bank House,Senapati Bapat Marg,Lower Parel,Mumbai 400013A
-21/05/24 UPI-MAHESH RAJESH BOKE-Q566872344@YBL-YE 0000414295166325 21/05/24 30.00 743.50
-SB0YBLUPI-414295166325-UPI
-23/05/24 UPI-SANSKRITI DNYANDEO I-IGHESANSKRITI-1 0000414467108528 23/05/24 68.50 675.00
-@OKAXIS-UBIN0915572-414467108528-UPI
-23/05/24 UPI-RATHOD MANASI AMOL-RATHODMANASI9-4@O 0000414474069127 23/05/24 152.00 523.00
-KICICI-SRCB0000374-414474069127-UPI
-24/05/24 UPI-SANSKRITI DNYANDEO I-IGHESANSKRITI-1 0000414502611767 24/05/24 40.00 483.00
-@OKAXIS-UBIN0915572-414502611767-DHAPATA
-24/05/24 UPI-TEJASWINI CHANDRAKAN-JADHAVTEJU423@Y 0000451165025185 24/05/24 30.00 453.00
-BL-SBIN0008421-451165025185-PAYMENT FROM
-PHONE
-24/05/24 UPI-VI-VILPREMNG@PAYTM-YESB0PTMUPI-41452 0000414524282334 24/05/24 39.00 414.00
-4282334-UPI
-27/05/24 UPI-SACHIN SHRIDHAR DARV-9420361875@AXIS 0000451473041967 27/05/24 1,000.00 1,414.00
-B-HDFC0000064-451473041967-PAID VIA CRED
-AND
-27/05/24 UPI-AARYA SUMANT KULKARN-9699988736@CNRB 0000414817651399 27/05/24 414.00 1,000.00
--CNRB0000033-414817651399-UPI
-27/05/24 UPI-ABHIJEET VILAS KOTHA-ABHIJEETKOTHARI 0000414822353924 27/05/24 170.00 830.00
-13@OKSBI-SBIN0011127-414822353924-PAV BH
-AJI
-27/05/24 UPI-MISS SAKSHI SANJAY M-SMORE81800@OKAX 0000414828056935 27/05/24 495.00 335.00
-IS-MAHB0000043-414828056935-UPI
-27/05/24 UPI-MISS SAKSHI SANJAY M-SMORE81800@OKAX 0000414828209285 27/05/24 55.00 280.00
-IS-MAHB0000043-414828209285-UPI
-28/05/24 UPI-MAHARASHTRA STATE RO-PAYTM-81651383@ 0000414970598895 28/05/24 255.00 25.00
-PAYTM-YESB0PTMUPI-414970598895-UPI
-28/05/24 UPI-REKHA ASHISH SALUNKE-REKHASALUNKE76@ 0000414971032486 28/05/24 200.00 225.00
-OKHDFCBANK-HDFC0000064-414971032486-UPI
-29/05/24 UPI-REKHA ASHISH SALUNKE-REKHASALUNKE76@ 0000415079166300 29/05/24 200.00 425.00
-OKHDFCBANK-HDFC0000064-415079166300-UPIPage No .: 8
-MS SALUNKE RUCHA ASHISH
-FLAT NO A20 A WING 5 TH FLOOR
-TOWN SQUIRE APPARTMENT OPPOSITE
-SHANI MANDIR PETH ROAD
-NASHIK 422003
-MAHARASHTRA INDIA
-JOINT HOLDERS :
-Nomination : Registered
-Statement of account From : 01/04/2024 To : 23/06/2024Account Branch : THATTE NAGAR
-Address : VASTUSHRI No.3
-THATTE NAGAR
-GANGAPUR COLLEGE, LINK ROAD
-City : NASHIK 422 005
-State : MAHARASHTRA
-Phone no. : 18002026161
-OD Limit : 0.00
-Currency : INR
-Email : RUCHASALUNKE24@GMAIL.COM
-Cust ID : 204788139
-Account No : 50100551588890 OTHER
-A/C Open Date : 02/09/2022
-Account Status : Regular
-RTGS/NEFT IFSC : HDFC0000064 MICR : 422240002
-Branch Code : 64 Product Code : 1133
-HDFC BANK LIMITED
-*Closing balance includes funds earmarked for hold and uncleared funds
-Contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.The address on this statement is that on record with the Bank as at the day of requesting
+state account branch gstn:27aaach2702h1z0
+hdfc bank gstin number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
+registered office address: hdfc bank house,senapati bapat marg,lower parel,mumbai 400013a
+21/05/24 upi-mahesh rajesh boke-q566872344@ybl-ye 0000414295166325 21/05/24 30.00 743.50
+sb0yblupi-414295166325-upi
+23/05/24 upi-sanskriti dnyandeo i-ighesanskriti-1 0000414467108528 23/05/24 68.50 675.00
+@okaxis-ubin0915572-414467108528-upi
+23/05/24 upi-rathod manasi amol-rathodmanasi9-4@o 0000414474069127 23/05/24 152.00 523.00
+kicici-srcb0000374-414474069127-upi
+24/05/24 upi-sanskriti dnyandeo i-ighesanskriti-1 0000414502611767 24/05/24 40.00 483.00
+@okaxis-ubin0915572-414502611767-dhapata
+24/05/24 upi-tejaswini chandrakan-jadhavteju423@y 0000451165025185 24/05/24 30.00 453.00
+bl-sbin0008421-451165025185-payment from
+phone
+24/05/24 upi-vi-vilpremng@paytm-yesb0ptmupi-41452 0000414524282334 24/05/24 39.00 414.00
+4282334-upi
+27/05/24 upi-sachin shridhar darv-9420361875@axis 0000451473041967 27/05/24 1,000.00 1,414.00
+b-hdfc0000064-451473041967-paid via cred
+and
+27/05/24 upi-aarya sumant kulkarn-9699988736@cnrb 0000414817651399 27/05/24 414.00 1,000.00
+-cnrb0000033-414817651399-upi
+27/05/24 upi-abhijeet vilas kotha-abhijeetkothari 0000414822353924 27/05/24 170.00 830.00
+13@oksbi-sbin0011127-414822353924-pav bh
+aji
+27/05/24 upi-miss sakshi sanjay m-smore81800@okax 0000414828056935 27/05/24 495.00 335.00
+is-mahb0000043-414828056935-upi
+27/05/24 upi-miss sakshi sanjay m-smore81800@okax 0000414828209285 27/05/24 55.00 280.00
+is-mahb0000043-414828209285-upi
+28/05/24 upi-maharashtra state ro-paytm-81651383@ 0000414970598895 28/05/24 255.00 25.00
+paytm-yesb0ptmupi-414970598895-upi
+28/05/24 upi-rekha ashish salunke-rekhasalunke76@ 0000414971032486 28/05/24 200.00 225.00
+okhdfcbank-hdfc0000064-414971032486-upi
+29/05/24 upi-rekha ashish salunke-rekhasalunke76@ 0000415079166300 29/05/24 200.00 425.00
+okhdfcbank-hdfc0000064-415079166300-upipage no .: 8
+ms salunke rucha ashish
+flat no a20 a wing 5 th floor
+town squire appartment opposite
+shani mandir peth road
+nashik 422003
+maharashtra india
+joint holders :
+nomination : registered
+statement of account from : 01/04/2024 to : 23/06/2024account branch : thatte nagar
+address : vastushri no.3
+thatte nagar
+gangapur college, link road
+city : nashik 422 005
+state : maharashtra
+phone no. : 18002026161
+od limit : 0.00
+currency : inr
+email : ruchasalunke24@gmail.com
+cust id : 204788139
+account no : 50100551588890 other
+a/c open date : 02/09/2022
+account status : regular
+rtgs/neft ifsc : hdfc0000064 micr : 422240002
+branch code : 64 product code : 1133
+hdfc bank limited
+*closing balance includes funds earmarked for hold and uncleared funds
+contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.the address on this statement is that on record with the bank as at the day of requesting
 this statement.
-State account branch GSTN:27AAACH2702H1Z0
-HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
-Registered Office Address: HDFC Bank House,Senapati Bapat Marg,Lower Parel,Mumbai 40001329/05/24 UPI-JIO PREPAID RECHARGE-PAYTM-JIOMOBILI 0000415080248842 29/05/24 239.00 186.00
-TY@PAYTM-YESB0PTMUPI-415080248842-UPI
-29/05/24 UPI-AMISHA SHREYA-SHREYAAMISHA25@OKSBI- 0000415086347095 29/05/24 20.00 166.00
-IBKL0001067-415086347095-POHE
-30/05/24 UPI-RATHOD MANASI AMOL-RATHODMANASI9-4@O 0000415125229881 30/05/24 105.00 61.00
-KICICI-SRCB0000374-415125229881-UPI
-30/05/24 UPI-ABHIJEET VILAS KOTHA-ABHIJEETKOTHARI 0000415125285803 30/05/24 61.00 0.00
-13@OKSBI-SBIN0011127-415125285803-UPI
-30/05/24 UPI-RATHOD MANASI AMOL-RATHODMANASI9-4@O 0000451718536008 30/05/24 500.00 500.00
-KICICI-SRCB0000374-451718536008-BIRTHDAY
-CONTRII
-31/05/24 UPI-REKHA ASHISH SALUNKE-REKHASALUNKE76@ 0000415254496493 31/05/24 1,500.00 2,000.00
-OKHDFCBANK-HDFC0000064-415254496493-UPI
-31/05/24 ATW-526099XXXXXX4301-CONSK008-NASHIK 0000000000006658 31/05/24 1,500.00 500.00
-02/06/24 ATW-526099XXXXXX4301-BPRH1882-NASHIK 0000000000151092 02/06/24 500.00 0.00
-11/06/24 UPI-REKHA ASHISH SALUNKE-REKHASALUNKE76@ 0000416311006397 11/06/24 500.00 500.00
-OKHDFCBANK-HDFC0000064-416311006397-UPI
-11/06/24 ATW-526099XXXXXX4301-CONSK008-NASHIK 0000000000009461 11/06/24 500.00 0.00
-STATEMENT SUMMARY :-
-Opening Balance Dr Count Cr Count Debits Credits Closing Bal
+state account branch gstn:27aaach2702h1z0
+hdfc bank gstin number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
+registered office address: hdfc bank house,senapati bapat marg,lower parel,mumbai 40001329/05/24 upi-jio prepaid recharge-paytm-jiomobili 0000415080248842 29/05/24 239.00 186.00
+ty@paytm-yesb0ptmupi-415080248842-upi
+29/05/24 upi-amisha shreya-shreyaamisha25@oksbi- 0000415086347095 29/05/24 20.00 166.00
+ibkl0001067-415086347095-pohe
+30/05/24 upi-rathod manasi amol-rathodmanasi9-4@o 0000415125229881 30/05/24 105.00 61.00
+kicici-srcb0000374-415125229881-upi
+30/05/24 upi-abhijeet vilas kotha-abhijeetkothari 0000415125285803 30/05/24 61.00 0.00
+13@oksbi-sbin0011127-415125285803-upi
+30/05/24 upi-rathod manasi amol-rathodmanasi9-4@o 0000451718536008 30/05/24 500.00 500.00
+kicici-srcb0000374-451718536008-birthday
+contrii
+31/05/24 upi-rekha ashish salunke-rekhasalunke76@ 0000415254496493 31/05/24 1,500.00 2,000.00
+okhdfcbank-hdfc0000064-415254496493-upi
+31/05/24 atw-526099xxxxxx4301-consk008-nashik 0000000000006658 31/05/24 1,500.00 500.00
+02/06/24 atw-526099xxxxxx4301-bprh1882-nashik 0000000000151092 02/06/24 500.00 0.00
+11/06/24 upi-rekha ashish salunke-rekhasalunke76@ 0000416311006397 11/06/24 500.00 500.00
+okhdfcbank-hdfc0000064-416311006397-upi
+11/06/24 atw-526099xxxxxx4301-consk008-nashik 0000000000009461 11/06/24 500.00 0.00
+statement summary :-
+opening balance dr count cr count debits credits closing bal
 1,202.21 101 23 15,094.21 13,892.00 0.00
-Generated On: 24-Jun-2024 14:45 Generated By:
-204788139Requesting Branch Code: NET
-This is a computer generated statement and does
-not require signature.Page No .: 9
-MS SALUNKE RUCHA ASHISH
-FLAT NO A20 A WING 5 TH FLOOR
-TOWN SQUIRE APPARTMENT OPPOSITE
-SHANI MANDIR PETH ROAD
-NASHIK 422003
-MAHARASHTRA INDIA
-JOINT HOLDERS :
-Nomination : Registered
-Statement of account From : 01/04/2024 To : 23/06/2024Account Branch : THATTE NAGAR
-Address : VASTUSHRI No.3
-THATTE NAGAR
-GANGAPUR COLLEGE, LINK ROAD
-City : NASHIK 422 005
-State : MAHARASHTRA
-Phone no. : 18002026161
-OD Limit : 0.00
-Currency : INR
-Email : RUCHASALUNKE24@GMAIL.COM
-Cust ID : 204788139
-Account No : 50100551588890 OTHER
-A/C Open Date : 02/09/2022
-Account Status : Regular
-RTGS/NEFT IFSC : HDFC0000064 MICR : 422240002
-Branch Code : 64 Product Code : 1133
-HDFC BANK LIMITED
-*Closing balance includes funds earmarked for hold and uncleared funds
-Contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.The address on this statement is that on record with the Bank as at the day of requesting
+generated on: 24-jun-2024 14:45 generated by:
+204788139requesting branch code: net
+this is a computer generated statement and does
+not require signature.page no .: 9
+ms salunke rucha ashish
+flat no a20 a wing 5 th floor
+town squire appartment opposite
+shani mandir peth road
+nashik 422003
+maharashtra india
+joint holders :
+nomination : registered
+statement of account from : 01/04/2024 to : 23/06/2024account branch : thatte nagar
+address : vastushri no.3
+thatte nagar
+gangapur college, link road
+city : nashik 422 005
+state : maharashtra
+phone no. : 18002026161
+od limit : 0.00
+currency : inr
+email : ruchasalunke24@gmail.com
+cust id : 204788139
+account no : 50100551588890 other
+a/c open date : 02/09/2022
+account status : regular
+rtgs/neft ifsc : hdfc0000064 micr : 422240002
+branch code : 64 product code : 1133
+hdfc bank limited
+*closing balance includes funds earmarked for hold and uncleared funds
+contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.the address on this statement is that on record with the bank as at the day of requesting
 this statement.
-State account branch GSTN:27AAACH2702H1Z0
-HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
-Registered Office Address: HDFC Bank House,Senapati Bapat Marg,Lower Parel,Mumbai 400013
+state account branch gstn:27aaach2702h1z0
+hdfc bank gstin number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
+registered office address: hdfc bank house,senapati bapat marg,lower parel,mumbai 400013
