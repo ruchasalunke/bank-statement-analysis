@@ -1,4 +1,65 @@
-r15032005-1@okhdfcbank-hdfc0008299-40999
+date narration chq./ref.no. value dt withdrawal amt. deposit amt. closing balance
+01/04/24 upi-mr laxman kishor tha-7887319111@ybl- 0000409295096121 01/04/24 140.00 1,062.21
+cbin0283778-409295096121-upi
+01/04/24 upi-pathak traders-q689571318@ybl-yesb0y 0000409295464324 01/04/24 637.00 425.21
+blupi-409295464324-upi
+02/04/24 upi-jio prepaid recharge-paytm-jiomobili 0000409338749933 02/04/24 155.00 270.21
+ty@paytm-yesb0ptmupi-409338749933-upi
+03/04/24 upi-spotify india-spotify.bdsi@icici-ici 0000409440132869 03/04/24 59.00 211.21
+c0dc0099-409440132869-mandaterequest
+04/04/24 upi-hotel fountain pure -paytmqr28100505 0000409528038966 04/04/24 30.00 181.21
+01011u9pemox3stl@paytm-yesb0ptmupi-40952
+8038966-upi
+04/04/24 upi-sanjeev c ramale-q500333030@ybl-yesb 0000409538938742 04/04/24 50.00 131.21
+0yblupi-409538938742-upi
+05/04/24 upi-rekha ashish salunke-rekhasalunke76@ 0000409679164115 05/04/24 200.00 331.21
+okhdfcbank-hdfc0000064-409679164115-upi
+05/04/24 upi-blinkit-paytm-70258461@paytm-yesb0pt 0000409684983191 05/04/24 288.00 43.21
+mupi-409684983191-blinkit payment
+07/04/24 upi-rekha ashish salunke-rekhasalunke76@ 0000409876099389 07/04/24 2,000.00 2,043.21
+okhdfcbank-hdfc0000064-409876099389-upi
+07/04/24 upi-kiran anil patil-8329812213@ybl-sbin 0000409876207447 07/04/24 79.50 1,963.71
+0018300-409876207447-upi
+07/04/24 upi-kiran anil patil-8329812213@ybl-sbin 0000446417257672 07/04/24 7.00 1,970.71
+0018300-446417257672-payment from phone
+07/04/24 upi-pushkar suresh khami-khamitkarpushka 0000409876275414 07/04/24 260.00 1,710.71
+r15032005-1@okhdfcbank-hdfc0008299-40987
+6275414-upi
+08/04/24 upi-jio prepaid recharge-paytm-jiomobili 0000446516052869 08/04/24 239.00 1,471.71
+ty@paytm-yesb0ptmupi-446516052869-oidbr0
+00aosbd66@re
+08/04/24 upi-pushkar suresh khami-khamitkarpushka 0000409993210017 08/04/24 240.00 1,711.71page no .: 1
+ms salunke rucha ashish
+flat no a20 a wing 5 th floor
+town squire appartment opposite
+shani mandir peth road
+nashik 422003
+maharashtra india
+joint holders :
+nomination : registered
+statement of account from : 01/04/2024 to : 23/06/2024account branch : thatte nagar
+address : vastushri no.3
+thatte nagar
+gangapur college, link road
+city : nashik 422 005
+state : maharashtra
+phone no. : 18002026161
+od limit : 0.00
+currency : inr
+email : ruchasalunke24@gmail.com
+cust id : 204788139
+account no : 50100551588890 other
+a/c open date : 02/09/2022
+account status : regular
+rtgs/neft ifsc : hdfc0000064 micr : 422240002
+branch code : 64 product code : 1133
+hdfc bank limited
+*closing balance includes funds earmarked for hold and uncleared funds
+contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement.the address on this statement is that on record with the bank as at the day of requesting
+this statement.
+state account branch gstn:27aaach2702h1z0
+hdfc bank gstin number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.
+registered office address: hdfc bank house,senapati bapat marg,lower parel,mumbai 400013r15032005-1@okhdfcbank-hdfc0008299-40999
 3210017-recharge
 08/04/24 upi-agarwal company-gpay-11244120710@o 0000409993200764 08/04/24 20.00 1,691.71
 kbizaxis-utib0000000-409993200764-upi
